@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://studio.uxpincdn.com/studio/wp-content/uploads/2020/12/7-Best-Reasons-To-Use-React.js-Components-In-Your-Project-1024x512.png.webp"  />
+  <img height="400" src="https://i.postimg.cc/D0Ch1rm1/Black-and-Teal-Modern-Hackathon-Banner-Landscape.png"  />
 </div>
 
 ###
