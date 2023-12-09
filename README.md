@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fr25foysal&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" height="250" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=fr25foysal&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=5" height="250" alt="streak graph"  />
 </div>
 
 ###
