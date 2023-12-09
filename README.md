@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.postimg.cc/RV2Xs3rm/Black-and-Teal-Modern-Hackathon-Banner-Landscape-72-x-30-in.png"  />
+  <img height="400" src="https://i.postimg.cc/vm7Mhgm2/Black-and-Teal-Modern-Hackathon-Banner-Landscape-72-x-30-in-2.png"  />
 </div>
 
 ###
