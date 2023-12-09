@@ -1,11 +1,35 @@
+<div align="center">
+  <img height="400" src="https://studio.uxpincdn.com/studio/wp-content/uploads/2020/12/7-Best-Reasons-To-Use-React.js-Components-In-Your-Project-1024x512.png.webp"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋! My name is Foysal Rahman and I'm a Frontend Developer.</h1>
 
 ###
 
+<h2 align="left">About me ✋</h2>
+
+###
+
+<p align="center">Motivated MERN Stack Developer, mainly frontend developer , using react  and tech enthusiast seeking a dynamic role to apply problem-solving skills, collaborate effectively, and actively contribute to the creation of innovative web solutions for company progression. Passionate about leveraging technology to craft efficient web applications and committed to continuous skill enhancement in this evolving field.</p>
+
+###
+
+<h2 align="left">My vision 🎯</h2>
+
+###
+
+<p align="center">As a React Frontend Developer, my vision is to consistently push the boundaries of innovation in web development. I am an active learner, driven by the pursuit of excellence and committed to staying at the forefront of evolving technologies. With a focus on frontend mastery, my goal is to contribute significantly to the progression of companies by creating seamless and impactful user experiences that align with the latest industry standards.</p>
+
+###
+
+<h2 align="left">Profile Stats 🏆</h2>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fr25foysal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="165" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=fr25foysal&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" height="165" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fr25foysal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="165" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fr25foysal&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" height="250" alt="streak graph"  />
 </div>
 
 ###
@@ -67,15 +91,5 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fr25foysal/fr25foysal/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
