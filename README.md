@@ -34,8 +34,10 @@
 
 ###
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr25foysal&theme=react)
+<div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr25foysal&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fr25foysal&theme=react&utcOffset=8)
+</div>
 
 ###
 
