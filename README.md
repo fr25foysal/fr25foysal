@@ -8,6 +8,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fr25foysal&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" height="250" alt="streak graph"  />
+</div>
+
+###
+
 <h2 align="left">About me ✋</h2>
 
 ###
@@ -28,9 +34,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fr25foysal&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" height="250" alt="streak graph"  />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr25foysal&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fr25foysal&theme=react&utcOffset=8)
 
 ###
 
