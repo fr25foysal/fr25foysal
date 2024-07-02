@@ -14,22 +14,6 @@
 
 ###
 
-<h2 align="left">About me ✋</h2>
-
-###
-
-<p align="center">Motivated MERN Stack Developer, mainly frontend developer , using react  and tech enthusiast seeking a dynamic role to apply problem-solving skills, collaborate effectively, and actively contribute to the creation of innovative web solutions for company progression. Passionate about leveraging technology to craft efficient web applications and committed to continuous skill enhancement in this evolving field.</p>
-
-###
-
-<h2 align="left">My vision 🎯</h2>
-
-###
-
-<p align="center">As a React Frontend Developer, my vision is to consistently push the boundaries of innovation in web development. I am an active learner, driven by the pursuit of excellence and committed to staying at the forefront of evolving technologies. With a focus on frontend mastery, my goal is to contribute significantly to the progression of companies by creating seamless and impactful user experiences that align with the latest industry standards.</p>
-
-###
-
 <h2 align="left">Tools & Technologies</h2>
 
 ###
@@ -63,6 +47,23 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="45" alt="woocommerce logo"  />
 </div>
+
+###
+
+
+<h2 align="left">About me ✋</h2>
+
+###
+
+<p align="center">Motivated MERN Stack Developer, mainly frontend developer , using react  and tech enthusiast seeking a dynamic role to apply problem-solving skills, collaborate effectively, and actively contribute to the creation of innovative web solutions for company progression. Passionate about leveraging technology to craft efficient web applications and committed to continuous skill enhancement in this evolving field.</p>
+
+###
+
+<h2 align="left">My vision 🎯</h2>
+
+###
+
+<p align="center">As a React Frontend Developer, my vision is to consistently push the boundaries of innovation in web development. I am an active learner, driven by the pursuit of excellence and committed to staying at the forefront of evolving technologies. With a focus on frontend mastery, my goal is to contribute significantly to the progression of companies by creating seamless and impactful user experiences that align with the latest industry standards.</p>
 
 ###
 
