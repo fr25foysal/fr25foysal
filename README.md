@@ -33,6 +33,14 @@
 <h2 align="left">Profile Stats 🏆</h2>
 
 ###
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr25foysal&theme=react" alt="profile details" style="width: 100%;" />
+</div>
+<br />
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr25foysal&theme=react" alt="stats" style="width: 49%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fr25foysal&theme=react&utcOffset=8" alt="productive time" style="width: 49%;" />
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fr25foysal&theme=react)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fr25foysal&theme=react)
