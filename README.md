@@ -81,10 +81,6 @@
 
 ###
 
-<p align="center">React: Building dynamic and interactive user interfaces for seamless client-side rendering.<br>Tailwind CSS: Rapid and customizable styling, ensuring a modern and responsive design approach.<br>Firebase: Leveraging Firebase for real-time data storage, authentication, and efficient backend services.<br>Express.js (Node.js): Creating a robust and scalable server-side architecture for handling backend functionalities.<br>Node.js: Executing JavaScript server-side, facilitating efficient server-side development and enabling a unified language across the stack.<br>MongoDB: Storing and retrieving data in a flexible, JSON-like format, providing scalability and versatility for handling diverse data structures.</p>
-
-###
-
 <h2 align="left">Reach me out | Socials</h2>
 
 ###
